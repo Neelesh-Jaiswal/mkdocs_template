@@ -41,7 +41,7 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Neelesh-Jaiswal
     - icon: fontawesome/brands/linkedin
-      link: www.linkedin.com/in/nilesh-jaiswal-7a3b36118
+      link: https://linkedin.com/in/nilesh-jaiswal-7a3b36118
 
 extra_javascript:
   - javascripts/mathjax.js
